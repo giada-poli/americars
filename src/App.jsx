@@ -52,7 +52,7 @@ const cars = [
     photos: [
       "/images/auto2.jpg",
       "/images/auto2_2.jpg",
-      "/images/auto1_3.jpg",
+      "/images/auto2_3.jpg",
       "/images/auto2_4.jpg"
     ],
     description: "Profilo scolpito, cofano infinito e carattere autentico. La Stingray rappresenta la sportiva americana per eccellenza, qui in una configurazione nera elegante e aggressiva.",
