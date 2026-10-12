@@ -115,7 +115,7 @@ const cars = [
     color: "Desert Sand",
     origin: "Arizona, USA",
     power: "255 CV",
-    cover: "/images/auto4.jpg",
+    cover: "/images/auto5.jpg",
     photos: [
       "/images/auto5.jpg"
     ],
