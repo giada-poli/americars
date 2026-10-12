@@ -100,6 +100,27 @@ const cars = [
     ],
     description: "Un pick-up dal fascino ruvido, restaurato con gusto contemporaneo. Perfetto per chi cerca una classica americana capace di distinguersi senza rinunciare alla praticità.",
     features: ["Cassone in legno", "Assetto rivisto", "Aria condizionata", "Scarico sportivo"]
+  },
+    {
+    id: 5,
+    make: "auto5",
+    model: "nome modello 5",
+    year: 1972,
+    price: 54900,
+    status: "Disponibile",
+    category: "Pick-up",
+    transmission: "Automatico",
+    engine: "V8 5.7L",
+    mileage: "83.100 km",
+    color: "Desert Sand",
+    origin: "Arizona, USA",
+    power: "255 CV",
+    cover: "/images/auto4.jpg",
+    photos: [
+      "/images/auto5.jpg"
+    ],
+    description: "Un pick-up dal fascino ruvido, restaurato con gusto contemporaneo. Perfetto per chi cerca una classica americana capace di distinguersi senza rinunciare alla praticità.",
+    features: ["Cassone in legno", "Assetto rivisto", "Aria condizionata", "Scarico sportivo"]
   }
 ];
 
