@@ -224,7 +224,7 @@ function Inventory({ onOpen }) {
 function Story() {
   return <section id="story" className="overflow-hidden bg-[#171714] text-white">
     <div className="mx-auto grid max-w-7xl lg:grid-cols-2">
-      <div className="relative min-h-[500px]"><img src="https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1400&q=85" className="absolute inset-0 h-full w-full object-cover grayscale-[20%]" alt="Auto classica"/><div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"/><div className="absolute bottom-7 left-7 rounded-2xl border border-white/15 bg-black/35 p-5 backdrop-blur"><div className="font-serif text-4xl text-[#FFFFFF]">Route 66</div><div className="text-xs uppercase tracking-[.23em] text-white/60">Dall'America all'Italia</div></div></div>
+      <div className="relative min-h-[500px]"><img src="/images/auto_non_in_v.jpg" className="absolute inset-0 h-full w-full object-cover grayscale-[20%]" alt="Auto classica"/><div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"/><div className="absolute bottom-7 left-7 rounded-2xl border border-white/15 bg-black/35 p-5 backdrop-blur"><div className="font-serif text-4xl text-[#FFFFFF]">Route 66</div><div className="text-xs uppercase tracking-[.23em] text-white/60">Dall'America all'Italia</div></div></div>
       <div className="flex flex-col justify-center px-7 py-20 lg:p-20">
         <div className="text-xs font-bold uppercase tracking-[.28em] text-[#FFFFFF]">La nostra storia</div>
         <h2 className="mt-4 font-serif text-5xl leading-tight">La passione non si <span className="italic">inventa.</span></h2>
