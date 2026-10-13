@@ -10,29 +10,28 @@ import {
 const cars = [
   {
     id: 1,
-    make: "AUTO 1?",
-    model: "nome modello",
-    year: 1967,
-    price: 74900,
-    status: "Disponibile",
-    category: "Categoria1",
+    make: "Chevrolet",
+    model: "Corvette C3",
+    year: 1980,
+    price: 33000,
+    status: "Presente in collezione",
+    category: "Sport",
     transmission: "tramsmission?",
-    engine: "egine?",
-    mileage: "quanti km?",
-    color: "Candy Apple Red",
-    origin: "Luogo di origine",
-    power: "potenza in cavalli",
-    cover: "/images/auto1.jpg",
+    engine: "5700 V8",
+    mileage: "63.200",
+    color: "Rosso",
+    origin: "California",
+    power: "L82 230HP",
+    cover: "/images/auto1_2.jpg",
     photos: [
-      "/images/auto1.jpg",
       "/images/auto1_2.jpg",
       "/images/auto1_3.jpg",
       "/images/auto1_4.jpg",
       "/images/auto1_5.jpg",
       "/images/auto1_6.jpg"
     ],
-    description: "Una delle icone più riconoscibili dell'automobilismo americano. Linea fastback, presenza scenica e il suono inconfondibile del V8. Esemplare selezionato per fascino, autenticità e qualità complessiva.",
-    features: ["Interni in pelle nera", "Cerchi American Racing", "Servosterzo", "Impianto frenante revisionato"]
+    description: "Una delle icone più riconoscibili dell'automobilismo americano anni '70. Linea sport , presenza scenica e il suono inconfondibile del V8. Esemplare selezionato per fascino, autenticità e qualità complessiva.",
+    features: ["Interni in pelle rossa", "Cerchi American Racing Wheels", "Servosterzo"]
   },
   {
     id: 2,
