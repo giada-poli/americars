@@ -16,7 +16,7 @@ const cars = [
     price: 33000,
     status: "Presente in collezione",
     category: "Sport",
-    transmission: "tramsmission?",
+    transmission: "Cambio automatico",
     engine: "5700 V8",
     mileage: "63.200",
     color: "Rosso",
